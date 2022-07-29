@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1463669170 source:d:\c - walysson\wall-e movie 1.0\filme.c
+	"filme.h"
+
+1463669723 d:\c - walysson\wall-e movie 1.0\filme.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1463669263 source:d:\c - walysson\wall-e movie 1.0\main.c
+	"filme.h"
+

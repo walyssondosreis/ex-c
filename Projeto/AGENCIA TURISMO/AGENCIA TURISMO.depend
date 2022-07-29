@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1449176134 source:d:\c - walysson\projeto final\agencia turismo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mgturismo.h"
+
+1449176134 d:\c - walysson\projeto final\agencia turismo\mgturismo.h
+
+1448715689 source:d:\c - walysson\projeto final\agencia turismo\mgturismo.c
+	<stdio.h>
+	"mgturismo.h"
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

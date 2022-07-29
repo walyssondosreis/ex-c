@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1431881465 source:c:\users\walyssondosreis\skydrive\engenharia de computaÇÃo\1° periodo - facit\algoritimo e programaÇÃo\ei! programaÇÃo\programas\jogo 37\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+
+1431993378 source:d:\jogo 37\resource.rc
+
+1432816024 source:d:\jogo 37\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+
+1431993378 source:d:\onedrive\engenharia de computaÇÃo\1° periodo - facit\algoritimo e programaÇÃo\ei! programaÇÃo\programas\jogo 37\resource.rc
+
+1432821282 source:d:\onedrive\engenharia de computaÇÃo\1° periodo - facit\algoritimo e programaÇÃo\ei! programaÇÃo\programas\jogo 37\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+
+1433093252 source:d:\onedrive\documentos\3+engenharia de computaÇÃo\algoritimo e programaÇÃo\ei! programaÇÃo\programas\jogo 37\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+
+1431993378 source:d:\onedrive\documentos\3+engenharia de computaÇÃo\algoritimo e programaÇÃo\ei! programaÇÃo\programas\jogo 37\resource.rc
+

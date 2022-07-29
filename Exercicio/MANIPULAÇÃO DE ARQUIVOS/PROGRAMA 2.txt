@@ -1,0 +1,3 @@
+PROGRAMA 2:
+•	Usuário insere palavras diretamente em arquivo: “palavrauser.txt”
+•	Programa lê palavras do arquivo as reordenando para outro arquivo: “palavraordem.txt”

@@ -1,0 +1,9 @@
+PROGRAMA 1:
+
+•	Usuário insere 10 números em um vetor
+•	Números devem ser ordenados usando algoritmo Quick Sort
+•	Exibir na tela números ordenados
+•	Perguntar se deseja gravar em arquivo:
+	o	Números devem ser gravados em arquivo em modo binário
+•	Perguntar se deseja ler arquivo:
+	o	Números devem ser carregados do arquivo para um vetor S

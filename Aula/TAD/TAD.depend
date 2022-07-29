@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446158943 source:e:\algo\tad\lista.c
+	<stdio.h>
+	"lista.h"
+
+1446159981 e:\algo\tad\lista.h
+
+1446160273 source:e:\algo\tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"lista.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1447424126 source:d:\c - walysson\lista encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"lista.h"
+
+1447424236 source:d:\c - walysson\lista encadeada\lista.c
+	<stdio.h>
+	"lista.h"
+
+1447424336 d:\c - walysson\lista encadeada\lista.h
+

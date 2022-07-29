@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1441924215 source:e:\eng.comp.a algoritmo - heveraldo\aula\main.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
+1441926124 e:\eng.comp.a algoritmo - heveraldo\aula\aluno.h
+
+1441926200 source:e:\eng.comp.a algoritmo - heveraldo\aula\aluno.c
+	"aluno.h"
+

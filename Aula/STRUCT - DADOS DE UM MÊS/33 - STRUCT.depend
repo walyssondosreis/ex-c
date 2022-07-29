@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441320130 source:e:\eng.comp.a algoritmo - heveraldo\33 - struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

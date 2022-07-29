@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1461202175 source:d:\arquivo met. insercao\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1463423935 source:d:\c - walysson\arquivo - met. insercao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

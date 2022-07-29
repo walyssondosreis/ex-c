@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1440112860 source:e:\eng.comp.a algoritmo - heveraldo\aula1ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1440715976 source:e:\eng.comp.a algoritmo - heveraldo\soma de n numeros naturais primos\main.c
+	<stdio.h>
+	<stdlib.h>
+
